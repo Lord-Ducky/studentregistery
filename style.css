@@ -1,0 +1,21 @@
+#SubmiButton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: lightblue;
+}
+
+#sortbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+    color:lightblue;
+}
+
+input{
+    margin:10px;
+}
+
+body{
+    background-color: grey;
+}
+
